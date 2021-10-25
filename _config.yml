@@ -102,13 +102,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohamed E. M. K. Abdelaziz 22"
+  name             : "Mohamed E. M. K. Abdelaziz"
   avatar           : "/images/bio photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "London, United Kingdom"
   email            : "m.abdelaziz16@imperial.ac.uk"
   github           : "memkabdelaziz"
-  linkedin         : "https://www.linkedin.com/in/mohamed-e-m-k-abdelaziz-34211752/"
+  linkedin         : "https://www.linkedin.com/in/mohamed-e-m-k-abdelaziz-34211752"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
