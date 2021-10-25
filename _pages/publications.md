@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Publications"
+title: "Peer-reviewed Publications"
 author-profile: true
 classes: wide
 ---
