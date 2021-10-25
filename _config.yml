@@ -108,7 +108,7 @@ author:
   location         : "London, United Kingdom"
   email            : "m.abdelaziz16@imperial.ac.uk"
   github           : "memkabdelaziz"
-  linkedin         : "www.linkedin.com/in/memkabdelaziz"
+  #linkedin         : "www.linkedin.com/in/memkabdelaziz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
