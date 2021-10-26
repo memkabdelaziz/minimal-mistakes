@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## 2021
-[*X-ray to MR:the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta) <br />
+[*X-ray to MR: the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta) <br />
 **Mohamed E. M. K. Abdelaziz**, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang, Burak Temelkuran  <br />
 *2021 Prog. Biomed. Eng. 3 032004*
 
