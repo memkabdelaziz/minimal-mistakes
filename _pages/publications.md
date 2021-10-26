@@ -1,11 +1,10 @@
 ---
 layout: archive
 permalink: /publications/
+title: "PEER-REVIEWED PUBLICATIONS"
 author-profile: true
 classes: wide
 ---
-
-# PEER-REVIEWED PUBLICATIONS
 
 ## 2021
 [*X-ray to MR: the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta) <br />
