@@ -19,6 +19,10 @@ Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, **Mohamed E. M. K. Abdelaziz
 Daniel Bautista-Salinas, Dennis Kundrat, Alexandros Kogkas, **Mohamed E. M. K. Abdelaziz**, Stamatia Giannarou, Ferdinando Rodriguez y Baena <br />
 *IEEE Transactions on Medical Robotics and Bionics, vol. 3, no. 1, pp. 261-264, Feb. 2021*
 
+[*Integrated Augmented Reality Feedback for Cochlear Implant Surgery Instruments*](https://ieeexplore.ieee.org/abstract/document/9305711) <br />
+Daniel Bautista-Salinas, Dennis Kundrat, Alexandros Kogkas, **Mohamed E. M. K. Abdelaziz**, Stamatia Giannarou, Ferdinando Rodriguez y Baena <br />
+*IEEE Transactions on Medical Robotics and Bionics, vol. 3, no. 1, pp. 261-264, Feb. 2021*
+
 
 ## 2020
 [*Laser-Profiled Continuum Robot with Integrated Tension Sensing for Simultaneous Shape and Tip Force Estimation*](https://www.liebertpub.com/doi/full/10.1089/soro.2019.0051) <br />
