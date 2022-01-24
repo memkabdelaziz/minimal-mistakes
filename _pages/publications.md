@@ -12,11 +12,9 @@ _________________
 ### 2021
 
 
-<blockquote>
   **[*Towards a Functional Atraumatic Self-Shaping Cochlear Implant*](https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620)** <br />
   Daniel Bautista-Salinas, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
   *Macromol. Mater. Eng. 2100620*
-</blockquote>
 
 **[*X-ray to MR: the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta)** <br />
 **Mohamed E. M. K. Abdelaziz**, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang, Burak Temelkuran  <br />
