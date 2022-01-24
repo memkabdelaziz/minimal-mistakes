@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Peer-Reviewed Publications"
 author-profile: true
 classes: wide
 ---
 
+# Peer-Reviewed Publications
 ## 2021
 
 
