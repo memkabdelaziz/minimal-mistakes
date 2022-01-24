@@ -16,6 +16,12 @@ _________________
 Daniel Bautista-Salinas, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
 *Macromol. Mater. Eng. 2100620*
 
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+</li>
+
 **[*X-ray to MR: the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta)** <br />
 **Mohamed E. M. K. Abdelaziz**, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang, Burak Temelkuran  <br />
 *2021 Prog. Biomed. Eng. 3 032004*
