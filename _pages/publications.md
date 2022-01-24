@@ -12,12 +12,11 @@ _________________
 ### 2021
 
 
-**[*Towards a Functional Atraumatic Self-Shaping Cochlear Implant*](https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620)** <br />
-Daniel Bautista-Salinas, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
-*Macromol. Mater. Eng. 2100620*
-
 <blockquote>
-  <p>Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.</p>
+  <p>**[*Towards a Functional Atraumatic Self-Shaping Cochlear Implant*](https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620)** <br />
+  Daniel Bautista-Salinas, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
+  *Macromol. Mater. Eng. 2100620*
+</p>
 </blockquote>
 
 **[*X-ray to MR: the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta)** <br />
