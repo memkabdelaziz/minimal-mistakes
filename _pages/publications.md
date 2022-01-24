@@ -56,14 +56,11 @@ Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, <st
 </blockquote>
 
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation</strong></a><br />
-Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
-IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9197307"><strong>End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention</strong></a><br />
+Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga and Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
 </blockquote>
 
-**[*End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention*](https://ieeexplore.ieee.org/abstract/document/9197307)** <br />
-Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, **Mohamed E. M. K. Abdelaziz**, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga, Guang-Zhong Yang <br />
-*2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973*
 
 ### 2019
 **[*Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator*](https://ieeexplore.ieee.org/abstract/document/8967712)** <br />
