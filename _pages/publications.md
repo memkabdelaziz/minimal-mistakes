@@ -23,9 +23,11 @@ _________________
 2021 Prog. Biomed. Eng. 3 032004 </p>
 </blockquote>
 
-**[*An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation*](https://ieeexplore.ieee.org/abstract/document/9376657)** <br />
-Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, **Mohamed E. M. K. Abdelaziz**, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
-*IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021*
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation</strong></a><br />
+Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
+IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
+</blockquote>
 
 ### 2020
 
