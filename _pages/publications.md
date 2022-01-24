@@ -13,13 +13,13 @@ _________________
 
 <blockquote>
 <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant</strong></a><br />
-  Daniel Bautista-Salinas, <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
+  Daniel Bautista-Salinas, <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins and Ferdinando Rodriguez y Baena <br />
   Macromol. Mater. Eng. 2100620 </p>
 </blockquote>
 
 <blockquote>
 <p><a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation</strong></a><br />
-<strong>Mohamed E. M. K. Abdelaziz</strong>, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang, Burak Temelkuran  <br />
+<strong>Mohamed E. M. K. Abdelaziz</strong>, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang and Burak Temelkuran  <br />
 2021 Prog. Biomed. Eng. 3 032004 </p>
 </blockquote>
 
