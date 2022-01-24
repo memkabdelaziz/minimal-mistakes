@@ -13,13 +13,15 @@ _________________
 
 <blockquote>
 <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant</strong></a><br />
-  Daniel Bautista-Salinas, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
-  *Macromol. Mater. Eng. 2100620* </p>
+  Daniel Bautista-Salinas, <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins, Ferdinando Rodriguez y Baena <br />
+  Macromol. Mater. Eng. 2100620 </p>
 </blockquote>
 
-**[*X-ray to MR: the progress of flexible instruments for endovascular navigation*](https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta)** <br />
-**Mohamed E. M. K. Abdelaziz**, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang, Burak Temelkuran  <br />
-*2021 Prog. Biomed. Eng. 3 032004*
+<blockquote>
+<p><a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation</strong></a><br />
+<strong>Mohamed E. M. K. Abdelaziz</strong>, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang, Burak Temelkuran  <br />
+2021 Prog. Biomed. Eng. 3 032004 </p>
+</blockquote>
 
 **[*An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation*](https://ieeexplore.ieee.org/abstract/document/9376657)** <br />
 Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, **Mohamed E. M. K. Abdelaziz**, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
