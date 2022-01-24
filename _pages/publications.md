@@ -50,24 +50,10 @@ Meysam Keshavarz, Dominic J Wales, Florent Seichepine, <strong>Mohamed E. M. K. 
 </blockquote>
 
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation</strong></a><br />
-Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
-IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9196912"><strong>Collaborative robot-assisted endovascular catheterization with generative adversarial imitation learning</strong></a><br />
+Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, <strong>Mohamed E. M. K. Abdelaziz</strong>, Celia Riga, Colin Bicknell and Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 2414-2420 </p>
 </blockquote>
-
-**[*Laser-Profiled Continuum Robot with Integrated Tension Sensing for Simultaneous Shape and Tip Force Estimation*](https://www.liebertpub.com/doi/full/10.1089/soro.2019.0051)** <br />
-Anzhu Gao, Ning Liu, Mali Shen, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Guang-Zhong Yang <br />
-*Soft Robotics 2020 7:4, 421-443*
-
-<blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation</strong></a><br />
-Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
-IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
-</blockquote>
-
-**[*Collaborative robot-assisted endovascular catheterization with generative adversarial imitation learning*](https://ieeexplore.ieee.org/abstract/document/9196912)** <br />
-Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, **Mohamed E. M. K. Abdelaziz**, Celia Riga, Colin Bicknell, Guang-Zhong Yang <br />
-*2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 2414-2420*
 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation</strong></a><br />
