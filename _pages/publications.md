@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /publications/
-title: ''
+title: ""
 author-profile: true
 classes: wide
 ---
