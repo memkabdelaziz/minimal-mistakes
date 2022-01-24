@@ -5,8 +5,8 @@ author-profile: true
 classes: wide
 ---
 
-# Peer-Reviewed Publications
-## 2021
+## Peer-Reviewed Publications
+### 2021
 
 
 **[*Towards a Functional Atraumatic Self-Shaping Cochlear Implant*](https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620)** <br />
@@ -21,7 +21,7 @@ Daniel Bautista-Salinas, **Mohamed E. M. K. Abdelaziz**, Burak Temelkuran, Eric 
 Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, **Mohamed E. M. K. Abdelaziz**, Wenqiang Chi, Anh Nguyen, Celia Riga, Guang-Zhong Yang  <br />
 *IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021*
 
-## 2020
+### 2020
 
 **[*Integrated Augmented Reality Feedback for Cochlear Implant Surgery Instruments*](https://ieeexplore.ieee.org/abstract/document/9305711)** <br />
 Daniel Bautista-Salinas, Dennis Kundrat, Alexandros Kogkas, **Mohamed E. M. K. Abdelaziz**, Stamatia Giannarou, Ferdinando Rodriguez y Baena <br />
@@ -47,7 +47,7 @@ Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, **M
 Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, **Mohamed E. M. K. Abdelaziz**, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga, Guang-Zhong Yang <br />
 *2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973*
 
-## 2019
+### 2019
 **[*Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator*](https://ieeexplore.ieee.org/abstract/document/8967712)** <br />
 Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, **Mohamed E. M. K. Abdelaziz**, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
 *2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973*
@@ -67,4 +67,4 @@ Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, **Mohamed E. M. K. Abd
 *2017 IEEE International Conference on Robotics and Automation (ICRA), 1746-1753*
 
 
-# Dissertations
+## Dissertations
