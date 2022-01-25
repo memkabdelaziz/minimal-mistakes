@@ -12,7 +12,7 @@ _________________
 ### 2021
 
 <blockquote>
-<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant</strong></a><br />
+<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant</strong></a> <i class="fas fa-unlock"></i> <br />
   Daniel Bautista-Salinas, <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins and Ferdinando Rodriguez y Baena <br />
   Macromol. Mater. Eng. 2100620 </p>
 </blockquote>
