@@ -81,7 +81,7 @@ Yang Hu, Lin Zhang, Carlo A. Seneci, Wei Li, <strong>Mohamed E. M. K. Abdelaziz<
 IEEE/ASME Transactions on Mechatronics, vol. 24, no. 2, pp. 517-526, April 2019 </p>
 </blockquote>
 
-###2018
+### 2018
 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8593421"><strong>Trajectory optimization of robot-assisted endovascular catheterization with reinforcement learning
@@ -103,7 +103,7 @@ Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong
 2018 IEEE International Conference on Robotics and Automation (ICRA), 2018, pp. 25-31 </p>
 </blockquote>
 
-###2017
+### 2017
 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/document/7989206"><strong>Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy</strong></a><br />
@@ -111,7 +111,7 @@ Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong
  2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 1746-1753 </p>
 </blockquote>
 
-###2014
+### 2014
 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/6961597"><strong>Parameter space approach based state feedback control of LTV systems
