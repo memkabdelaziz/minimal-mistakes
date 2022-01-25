@@ -62,20 +62,30 @@ Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. 
 </blockquote>
 
 
-
 ### 2019
-**[*Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator*](https://ieeexplore.ieee.org/abstract/document/8967712)** <br />
-Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, **Mohamed E. M. K. Abdelaziz**, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
-*2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973*
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
+Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+</blockquote>
 
-**[*End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention*](https://ieeexplore.ieee.org/abstract/document/9197307)** <br />
-Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, **Mohamed E. M. K. Abdelaziz**, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga, Guang-Zhong Yang <br />
-*2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973*
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Toward a versatile robotic platform for fluoroscopy and mri-guided endovascular interventions: A pre-clinical study</strong></a><br />
+<strong>Mohamed E. M. K. Abdelaziz</strong>, Dennis Kundrat, Marco Pupillo, Giulio Dagnino, Trevor M. Y. Kwok, Wenqiang Chi, Vincent Groenhuis, Françoise J. Siepel, Celia Riga, Stefano Stramigioli and Guang-Zhong Yang <br />
+2019 IEEE/RJS International Conference on Robotics and Automation (ICRA), 2019, pp. 5411-5418 </p>
+</blockquote>
 
-**[*End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention*](https://ieeexplore.ieee.org/abstract/document/9197307)** <br />
-Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, **Mohamed E. M. K. Abdelaziz**, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga, Guang-Zhong Yang <br />
-*2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973*
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
+Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+</blockquote>
 
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9197307"><strong>End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention</strong></a><br />
+Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga and Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+</blockquote>
 **[*Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy*](https://ieeexplore.ieee.org/document/7989206)** <br />
 **M.E.M.K Abdelaziz**, V. Groenhuis, J. Veltman, F. J. Siepel, S. Stramigioli <br />
 *2017 IEEE International Conference on Robotics and Automation (ICRA), 1746-1753*
