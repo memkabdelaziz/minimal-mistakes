@@ -111,4 +111,13 @@ Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong
  2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 1746-1753 </p>
 </blockquote>
 
+###2014
+
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/6961597"><strong>Parameter space approach based state feedback control of LTV systems
+</strong></a><br />
+Frank Schrödel, <strong>Mohamed E. M. K. Abdelaziz</strong>, and Dirk Abel <br />
+ 22nd Mediterranean Conference on Control and Automation, 2014, pp. 1559-1565 </p>
+</blockquote>
+
 ## Dissertations
