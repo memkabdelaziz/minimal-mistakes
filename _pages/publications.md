@@ -65,7 +65,7 @@ Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. 
 ### 2019
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
-Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
+Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga and Guang-Zhong Yang <br />
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 5398-5403 </p>
 </blockquote>
 
