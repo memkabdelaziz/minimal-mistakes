@@ -70,7 +70,7 @@ Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E
 </blockquote>
 
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Toward a versatile robotic platform for fluoroscopy and mri-guided endovascular interventions: A pre-clinical study</strong></a><br />
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8968237"><strong>Toward a versatile robotic platform for fluoroscopy and mri-guided endovascular interventions: A pre-clinical study</strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Dennis Kundrat, Marco Pupillo, Giulio Dagnino, Trevor M. Y. Kwok, Wenqiang Chi, Vincent Groenhuis, Françoise J. Siepel, Celia Riga, Stefano Stramigioli and Guang-Zhong Yang <br />
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 5411-5418 </p>
 </blockquote>
