@@ -123,15 +123,14 @@ Frank Schrödel, <strong>Mohamed E. M. K. Abdelaziz</strong>, and Dirk Abel <br 
 ## Dissertations
 
 <blockquote>
-<p><a href="https://www.dropbox.com/s/wkc4ikxmjepyuec/Mohamed_Abdelaziz_BSc.pdf?dl=0"><strong> Designing, implementing and integrating a controller for the MRI-compatible robotic breast biopsy system
+<p><a href="https://www.dropbox.com/s/ol0jpu3mxfd315g/Mohamed_Abdelaziz_MSc.pdf?dl=0"><strong> Designing, implementing and integrating a controller for the MRI-compatible robotic breast biopsy system
 </strong></a><br />
  Mohamed E. M. K. Abdelaziz <br />
 Robotics and Mechatronics (RaM) Lab, University of Twente, 2016</p>
 </blockquote>
 
-
 <blockquote>
-<p><a href="https://www.dropbox.com/s/ol0jpu3mxfd315g/Mohamed_Abdelaziz_MSc.pdf?dl=0"><strong> Expanding the parameter space approach for LTV-systems </strong></a><br />
+<p><a href="https://www.dropbox.com/s/wkc4ikxmjepyuec/Mohamed_Abdelaziz_BSc.pdf?dl=0"><strong> Expanding the parameter space approach for LTV-systems </strong></a><br />
 Mohamed E. M. K. Abdelaziz <br />
 Institute of Automatic Control (IRT), RWTH Aachen University, 2013</p>
 </blockquote>
