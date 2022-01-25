@@ -81,19 +81,34 @@ Yang Hu, Lin Zhang, Carlo A. Seneci, Wei Li, <strong>Mohamed E. M. K. Abdelaziz<
 IEEE/ASME Transactions on Mechatronics, vol. 24, no. 2, pp. 517-526, April 2019 </p>
 </blockquote>
 
+###2018
+
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/9197307"><strong>End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention</strong></a><br />
-Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga and Guang-Zhong Yang <br />
-2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8593421"><strong>Trajectory optimization of robot-assisted endovascular catheterization with reinforcement learning
+</strong></a><br />
+Wenqiang Chi, Jindong Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Giulio Dagnino, Celia Riga, Colin Bicknell and Guang-Zhong Yang <br />
+2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018, pp. 3875-3881 </p>
 </blockquote>
 
-###2018
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8593628"><strong>Haptic feedback and dynamic active constraints for robot-assisted endovascular catheterization
+</strong></a><br />
+Giulio Dagnino, Jindong Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Celia Riga and Guang-Zhong Yang <br />
+2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018, pp. 1770-1775 </p>
+</blockquote>
+
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8460849"><strong>Design and kinematics characterization of a laser-profiled continuum manipulator for the guidance of bronchoscopic instruments</strong></a><br />
+Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong Yang <br />
+2018 IEEE International Conference on Robotics and Automation (ICRA), 2018, pp. 25-31 </p>
+</blockquote>
 
 ###2017
 
-**[*Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy*](https://ieeexplore.ieee.org/document/7989206)** <br />
-**M.E.M.K Abdelaziz**, V. Groenhuis, J. Veltman, F. J. Siepel, S. Stramigioli <br />
-*2017 IEEE International Conference on Robotics and Automation (ICRA), 1746-1753*
-
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/document/7989206"><strong>Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy</strong></a><br />
+<strong>Mohamed E. M. K. Abdelaziz</strong>, Vincent Groenhuis, Jeroen Veltman,  Françoise J. Siepel, and Stefano Stramigioli <br />
+ 2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 1746-1753 </p>
+</blockquote>
 
 ## Dissertations
