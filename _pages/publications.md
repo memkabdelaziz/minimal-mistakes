@@ -21,7 +21,7 @@ _________________
 <p><a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation <i class="fas fa-unlock"></i> </strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang and Burak Temelkuran  <br />
 2021 Prog. Biomed. Eng. 3 032004 <br />
-<a href="https://www.youtube.com/watch?v=h5BGFRNYYEw"><strong> [Summary Video] </strong></a> </p>
+<a href="https://www.youtube.com/watch?v=h5BGFRNYYEw">[<strong> Summary Video </strong>]</a> </p>
 </blockquote>
 
 <blockquote>
