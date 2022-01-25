@@ -66,19 +66,19 @@ Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
 Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
-2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 5398-5403 </p>
 </blockquote>
 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Toward a versatile robotic platform for fluoroscopy and mri-guided endovascular interventions: A pre-clinical study</strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Dennis Kundrat, Marco Pupillo, Giulio Dagnino, Trevor M. Y. Kwok, Wenqiang Chi, Vincent Groenhuis, Françoise J. Siepel, Celia Riga, Stefano Stramigioli and Guang-Zhong Yang <br />
-2019 IEEE/RJS International Conference on Robotics and Automation (ICRA), 2019, pp. 5411-5418 </p>
+2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 5411-5418 </p>
 </blockquote>
 
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
-Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga, Guang-Zhong Yang <br />
-2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8625557"><strong>Design, fabrication, and testing a semiautomatic sewing device for personalized stent graft manufacturing</strong></a><br />
+Yang Hu, Lin Zhang, Carlo A. Seneci, Wei Li, <strong>Mohamed E. M. K. Abdelaziz</strong> and Guang-Zhong Yang <br />
+IEEE/ASME Transactions on Mechatronics, vol. 24, no. 2, pp. 517-526, April 2019 </p>
 </blockquote>
 
 <blockquote>
@@ -86,6 +86,11 @@ Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E
 Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga and Guang-Zhong Yang <br />
 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
 </blockquote>
+
+###2018
+
+###2017
+
 **[*Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy*](https://ieeexplore.ieee.org/document/7989206)** <br />
 **M.E.M.K Abdelaziz**, V. Groenhuis, J. Veltman, F. J. Siepel, S. Stramigioli <br />
 *2017 IEEE International Conference on Robotics and Automation (ICRA), 1746-1753*
