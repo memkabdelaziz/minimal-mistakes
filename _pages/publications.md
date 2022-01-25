@@ -18,13 +18,13 @@ _________________
 </blockquote>
 
 <blockquote>
-<p><a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation</strong></a><br />
+<p><a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation <i class="fas fa-unlock"></i> </strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang and Burak Temelkuran  <br />
 2021 Prog. Biomed. Eng. 3 032004 </p>
 </blockquote>
 
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation</strong></a><br />
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation <i class="fas fa-unlock"></i> </strong></a><br />
 Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga and Guang-Zhong Yang  <br />
 IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
 </blockquote>
