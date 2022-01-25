@@ -43,6 +43,13 @@ Anzhu Gao, Ning Liu, Mali Shen, <strong>Mohamed E. M. K. Abdelaziz</strong>, Bur
 Soft Robotics 2020 7:4, 421-443 </p>
 </blockquote>
 
+<blockquote>
+<p><a href="https://iopscience.iop.org/article/10.1088/1748-605X/ab8d12/meta"><strong>Induced neural stem cell differentiation on a drawn fiber scaffold—toward peripheral nerve regeneration></a><br />
+Meysam Keshavarz, Dominic J Wales, Florent Seichepine, <strong>Mohamed E. M. K. Abdelaziz</strong>, Panagiotis Kassanos, Quan Li, Burak Temelkuran, Hongxing Shen and Guang-Zhong Yang <br />
+2020 Biomed. Mater. 15 055011 </p>
+</blockquote>
+
+
 
 
 ### 2019
