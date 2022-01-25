@@ -44,11 +44,22 @@ Soft Robotics 2020 7:4, 421-443 </p>
 </blockquote>
 
 <blockquote>
-<p><a href="https://iopscience.iop.org/article/10.1088/1748-605X/ab8d12/meta"><strong>Induced neural stem cell differentiation on a drawn fiber scaffold—toward peripheral nerve regeneration></a><br />
+<p><a href="https://iopscience.iop.org/article/10.1088/1748-605X/ab8d12/meta"><strong>Induced neural stem cell differentiation on a drawn fiber scaffold—toward peripheral nerve regeneration</strong></a><br />
 Meysam Keshavarz, Dominic J Wales, Florent Seichepine, <strong>Mohamed E. M. K. Abdelaziz</strong>, Panagiotis Kassanos, Quan Li, Burak Temelkuran, Hongxing Shen and Guang-Zhong Yang <br />
 2020 Biomed. Mater. 15 055011 </p>
 </blockquote>
 
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9196912"><strong>Collaborative robot-assisted endovascular catheterization with generative adversarial imitation learning</strong></a><br />
+Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, <strong>Mohamed E. M. K. Abdelaziz</strong>, Celia Riga, Colin Bicknell and Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 2414-2420 </p>
+</blockquote>
+
+<blockquote>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/9197307"><strong>End-to-end real-time catheter segmentation with optical flow-guided warping during endovascular intervention</strong></a><br />
+Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga and Guang-Zhong Yang <br />
+2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
+</blockquote>
 
 
 
