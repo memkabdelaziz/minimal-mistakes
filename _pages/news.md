@@ -49,4 +49,11 @@ Humbled and honoured to be named an MIT Technology Review Innovator Under 35 in 
 <img src="/images/MITU35.jfif">
 </center> </p> </li>
 
+<li><p> 17 Nov 2021 <br />
+I was awarded the Margaret Fishenden Centenary Memorial Prize for the best PhD thesis over the previous five year period, in recognition of my contributions!
+<a href="https://www.imperial.ac.uk/mechanical-engineering/study/departmental-prizes/postgraduate-prizes/"><strong> Announcement </strong></a> <br />
+<center>
+<img src="/images/phd-prize.jfif">
+</center> </p> </li>
+
 </ul>
