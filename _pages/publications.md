@@ -5,6 +5,7 @@ title: ""
 author-profile: true
 classes: wide
 ---
+
 ## Peer-Reviewed Publications
 
 _________________
@@ -12,10 +13,10 @@ _________________
 ### 2021
 
 <blockquote>
-
-<p><t5><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant <i class="fas fa-unlock"></i> </strong></a> <br />
+<p><font size="-2">
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant <i class="fas fa-unlock"></i> </strong></a> <br />
   Daniel Bautista-Salinas, <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Eric M. Yeatman, Charlie T. Huins and Ferdinando Rodriguez y Baena <br />
-  Macromol. Mater. Eng. 2100620   </t5></p>
+  Macromol. Mater. Eng. 2100620 </font></p>
 </blockquote>
 
 <blockquote>
