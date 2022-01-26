@@ -20,7 +20,9 @@ I was featured in Sky News Arabia: <a href="https://www.skynewsarabia.com/techno
 
 
 <li><p> 06 Jan 2022 <br />
-My TV interview with Mr. Sherif Amer, MBC MASR 1, <a href="https://lnkd.in/eWkHXXnS"><strong>Link 1 </strong></a>, <a href="https://lnkd.in/ek4GkXpD"><strong>Link 2 </strong></a>, <a href="https://lnkd.in/eCfhzG52"><strong>Link 3 </strong></a>, <a href="https://lnkd.in/eqZKxWZJ"><strong>Link 4 </strong></a> <br />
+My TV interview with Mr. Sherif Amer, MBC MASR 1 <br />
+(لقائي مع الأستاذ شريف عامر في برنامج يحدث في مصر) <br />
+<a href="https://lnkd.in/eWkHXXnS"><strong>Link 1 </strong></a>, <a href="https://lnkd.in/ek4GkXpD"><strong>Link 2 </strong></a>, <a href="https://lnkd.in/eCfhzG52"><strong>Link 3 </strong></a>, <a href="https://lnkd.in/eqZKxWZJ"><strong>Link 4 </strong></a> <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htJ0SIX20j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
@@ -32,7 +34,8 @@ I was featured in masrawy, an arabic Egyptian news web portal: <a href="https://
 </center> </p> </li>
 
 <li><p> 26 Dec 2021 <br />
-I was featured in masrawy, an arabic Egyptian news web portal: <a href="https://www.masrawy.com/news/news_various/details/2022/1/6/2154037/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA-%D9%82%D8%B5%D8%A9-%D8%A8%D8%A7%D8%AD%D8%AB-%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9#Archived"><strong>مصراوي </strong></a> <br />
+Humbled and honoured to be named an #MIT Technology Review Innovator Under 35 in MENA for my contributions to #medical_robotics and image-guided interventions.
+: <a href="https://www.masrawy.com/news/news_various/details/2022/1/6/2154037/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA-%D9%82%D8%B5%D8%A9-%D8%A8%D8%A7%D8%AD%D8%AB-%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9#Archived"><strong>مصراوي </strong></a> <br />
 <center>
 <img src="/images/masrawy.PNG">
 </center> </p> </li>
