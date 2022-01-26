@@ -8,7 +8,6 @@ classes: wide
 
 ## Patents
 
-<font size="-0.2">
 <blockquote>
 <p>
 <a href="https://patents.google.com/patent/GB202020346D0/en?q=(Ip2ipo+Innovations+Ltd)&oq=(Ip2ipo+Innovations+Ltd)+&sort=new&page=5"><strong>A device and a method </strong></a> <br />
@@ -57,5 +56,3 @@ Publication No: WO2020174248A1 </p>
 Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Anzhu Gao, Burak Temelkuran and Guang-Zhong Yang<br />
 Publication No: WO2020016577A1 </p>
 </blockquote>
-
-</font>
