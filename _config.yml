@@ -13,7 +13,6 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-classes: wide
 
 # Site Settings
 locale                   : "en-US"
@@ -114,7 +113,7 @@ author:
   location         : "London, United Kingdom"
   email            : "m.abdelaziz16@imperial.ac.uk"
   github           : "memkabdelaziz"
-  #linkedin         : "https://www.linkedin.com/in/mohamed-e-m-k-abdelaziz-34211752/"
+  linkedin         : "https://www.linkedin.com/in/memkabdelaziz/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
