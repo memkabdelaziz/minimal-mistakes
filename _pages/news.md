@@ -8,12 +8,11 @@ classes: wide
 <li><p> 06 Jan 2022 <br />
 My TV interview with Sabah El Ward, TeN TV <br />
 (TeN TV - لقائي مع برنامج صباح الورد)  <br />
-<a href="https://lnkd.in/eWkHXXnS"><strong>Link 1 </strong></a>, <a href="https://lnkd.in/ek4GkXpD"><strong>Link 2 </strong></a>, <a href="https://lnkd.in/eCfhzG52"><strong>Link 3 </strong></a>, <a href="https://lnkd.in/eqZKxWZJ"><strong>Link 4 </strong></a> <br />
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htJ0SIX20j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOljIIOiJqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
 <li><p> 12 Jan 2022 <br />
-My radio interview with Mr. Elie Ayoub, Monte Carlo Doualiya <br />
+My radio interview with Mr. Elie Ayoub, Science Journal, Monte Carlo Doualiya <br />
 لقائي مع الأستاذ إيلي أيوب من إذاعة مونت كارلو الدولية (برنامج النشرة العلمية ١٢-٠١-٢٠٢٢) <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IJmyR6XXVrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
@@ -39,7 +38,7 @@ I was featured in masrawy, an arabic Egyptian news web portal: <a href="https://
 
 <li><p> 26 Dec 2021 <br />
 Humbled and honoured to be named an MIT Technology Review Innovator Under 35 in MENA for my contributions to #medical_robotics and image-guided interventions.
-<a href="https://iu35.technologyreview.ae/winners/2021?_ga=2.182955494.1944320116.1643208316-1921707036.1637783952"><strong>English Announcement: </strong></a>, <a href="https://technologyreview.ae/%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%88%D9%86-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D9%88%D9%86-%D8%AF%D9%88%D9%86-35-2021/"><strong>Arabic Announcement: </strong></a> <br />
+<a href="https://majarra.com/en/about/news/Majarra-and-MIT-Technology-Review-Arabia-announce-the-2021-Innovators-Under-35-MENA-Winners"><strong>English Announcement: </strong></a>, <a href="https://majarra.com/ar/about/news/Majarra-and-MIT-Technology-Review-Arabia-announce-the-2021-Innovators-Under-35-MENA-Winners"><strong>Arabic Announcement: </strong></a>, <a href="https://iu35.technologyreview.ae/winners/2021?_ga=2.79044820.1944320116.1643208316-1921707036.1637783952"><strong> List of Winners: </strong></a>, <a href="https://iu35.technologyreview.ae/winner/mohamed-abdelaziz"><strong> Personal Webpage: </strong></a> <br />
 <center>
 <img src="/images/MITU35.jfif">
 </center> </p> </li>
