@@ -10,8 +10,8 @@ classes: wide
 
 _________________
 
-### 2021y
-<font size="-1">
+### 2021
+<font size="-0.2">
 <blockquote>
 <p>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a functional atraumatic self-shaping cochlear implant <i class="fas fa-unlock"></i> </strong></a> <br />
@@ -20,16 +20,13 @@ _________________
 </blockquote>
 </font>
 
-<font size="-1">
 <blockquote>
 <p><a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac12d6/meta"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation <i class="fas fa-unlock"></i> </strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Libaihe Tian, Mohamad Hamady, Guang-Zhong Yang and Burak Temelkuran  <br />
 2021 Prog. Biomed. Eng. 3 032004 <br />
 <a href="https://www.youtube.com/watch?v=h5BGFRNYYEw">[<strong> Summary Video </strong>]</a> </p>
 </blockquote>
-</font>
 
-<font size="-1">
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/9376657"><strong>An MR-safe endovascular robotic platform: design, control, and ex-vivo evaluation <i class="fas fa-unlock"></i> </strong></a><br />
 Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga and Guang-Zhong Yang  <br />
