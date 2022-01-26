@@ -8,7 +8,7 @@ classes: wide
 
 ## Patents
 
-Licensed or currently in the process of being licensed by <a href="http://www.pruk.ltd"><strong>Precision Robotics Limited </strong></a> and  <a href="https://surgicalrobot.com.hk/"> <strong>Precision Robotics (Hong Kong) Limited </strong> </a>. 
+The following patents are licensed, or are currently in the process of being licensed by <a href="http://www.pruk.ltd"><strong>Precision Robotics Limited </strong></a> and  <a href="https://surgicalrobot.com.hk/"> <strong>Precision Robotics (Hong Kong) Limited </strong> </a>.
 
 <blockquote>
 <p>
