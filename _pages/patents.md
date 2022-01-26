@@ -8,9 +8,6 @@ classes: wide
 
 ## Patents
 
-_________________
-
-### 2021
 <font size="-0.2">
 <blockquote>
 <p>
