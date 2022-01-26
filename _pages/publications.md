@@ -12,6 +12,14 @@ _________________
 
 ### 2021
 <font size="-0.2">
+
+<blockquote>
+<p>
+<a href="https://patents.google.com/patent/GB202020346D0/en?q=(Ip2ipo+Innovations+Ltd)&oq=(Ip2ipo+Innovations+Ltd)+&sort=new&page=5"><strong>A device and a method </strong></a> <br />
+  <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Hyun-Taek Lee, Jinshi Zhao, Florent Seichepine and Guang-Zhong Yang <br />
+  Application No: GBGB2020346.9A </p>
+</blockquote>
+
 <blockquote>
 <p>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a functional atraumatic self-shaping cochlear implant <i class="fas fa-unlock"></i> </strong></a> <br />
