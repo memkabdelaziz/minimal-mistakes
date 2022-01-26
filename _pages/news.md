@@ -7,7 +7,7 @@ classes: wide
 
 <li><p> 18 Jan 2022 <br />
 My TV interview with AlHadath Alyoum <br />
-(لقائي مع قناة الحدث اليومم)  <br />
+(لقائي مع قناة الحدث اليوم)  <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5udjc4vIHeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
