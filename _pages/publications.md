@@ -5,6 +5,8 @@ title: ""
 author-profile: true
 classes: wide
 ---
+<font size="+2">This is bigger text.</font>
+
 ## Peer-Reviewed Publications
 
 _________________
