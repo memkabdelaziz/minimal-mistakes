@@ -109,7 +109,6 @@ Giulio Dagnino, Jindong Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqia
 Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong Yang <br />
 2018 IEEE International Conference on Robotics and Automation (ICRA), 2018, pp. 25-31 </p>
 </blockquote>
-</font>
 
 ### 2017
 <blockquote>
