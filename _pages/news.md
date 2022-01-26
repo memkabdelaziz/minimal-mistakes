@@ -6,7 +6,7 @@ permalink: /news/
 
 <li><p> 12 Jan 2022 <br />
 My radio interview with Mr. Elie Ayoub, Monte Carlo Doualiya <br />
-:لقائي مع الأستاذ إيلي أيوب من إذاعة مونت كارلو الدولية (برنامج النشرة العلمية ١٢-٠١-٢٠٢٢) <br />
+لقائي مع الأستاذ إيلي أيوب من إذاعة مونت كارلو الدولية (برنامج النشرة العلمية ١٢-٠١-٢٠٢٢) <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IJmyR6XXVrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
