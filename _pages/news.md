@@ -3,9 +3,9 @@ title: "News"
 permalink: /news/
 ---
 <ul>
-  <li>*01 August 2021<br />
-  I gave at a talk at the Reddit Robotics Showcase! You can find my talk here and the slides of my talk here.
-</li>
+  <li>*I was featured in al masrawy<br /> href="https://www.masrawy.com/news/news_various/details/2022/1/6/2154037/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA-%D9%82%D8%B5%D8%A9-%D8%A8%D8%A7%D8%AD%D8%AB-%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9#Archived"><strong>X-ray to MR: the progress of flexible instruments for endovascular navigation <i class="fas fa-unlock"></i> </strong>
+  </li>
+
   <li>04 June 2021<br />
   Our 5th ICRA 2021 Workshop on Legged Robots was a success! You can find the recorded talks here. For more information, visit our website.</li>
   <li>Tote bag selvage</li>
