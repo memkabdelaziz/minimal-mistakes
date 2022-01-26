@@ -115,7 +115,7 @@ author:
   github           : "memkabdelaziz"
   linkedin         : "memkabdelaziz"
   twitter          : "memkabdelaziz"
-  googlescholar    : ""
+  googlescholar    : "citations?user=QYzeQIcAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -137,7 +137,7 @@ author:
       # url: "https://instagram.com/"
     - label: "GoogleScholar"
       icon: "ai ai-google-scholar ai-4x"
-
+      # url: "https://scholar.google.com/""
 
 # Site Footer
 footer:
