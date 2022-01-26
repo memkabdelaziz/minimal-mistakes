@@ -25,35 +25,35 @@ classes: wide
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search/family/067385390/publication/WO2020234579A1?q=pn\%3DWO2020234579A1"><strong>A sensor </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/067385390/publication/WO2020234579A1?q=WO2020234579A1"><strong>A sensor </strong></a> <br />
   Antoine Barbot, Salzitsa Anastosova, Dominic J. Wales, Jang Ah Kim, <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran and Guang-Zhong Yang <br />
 Publication No: WO2020234579A1 </p>
 </blockquote>
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search?q=pn\%3DWO2020201741A1"><strong>Fibre based sensor incorporating electrochemical sensing </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/066442930/publication/WO2020201741A1?q=WO2020201741A1"><strong>Fibre based sensor incorporating electrochemical sensing </strong></a> <br />
 Salzitsa Anastosova, Burak Temelkuran, <strong>Mohamed E. M. K. Abdelaziz</strong>, Guang-Zhong Yang and Fabien Sorin <br />
 Publication No: WO2020201741 </p>
 </blockquote>
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search?q=pn\%3DWO2020174246A1"><strong>Longitudinally non-uniform preform and method of making the same </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/066377366/publication/WO2020174246A1?q=WO2020174246A1"><strong>Longitudinally non-uniform preform and method of making the same </strong></a> <br />
 Burak Temelkuran, <strong>Mohamed E. M. K. Abdelaziz</strong> and Guang-Zhong Yang<br />
 Publication No: WO2020174246A1 </p>
 </blockquote>
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search?q=pn\%3DWO2020174248A1"><strong>A Method and Preform for Forming a Device Comprising a Shape Memory Polymer </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/066377358/publication/WO2020174248A1?q=WO2020174248A1"><strong>A Method and Preform for Forming a Device Comprising a Shape Memory Polymer </strong></a> <br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Anzhu Gao, Burak Temelkuran and Guang-Zhong Yang<br />
 Publication No: WO2020174248A1 </p>
 </blockquote>
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search?q=pn\%3DWO2020016577A1"><strong>A Device </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/063364501/publication/WO2020016577A1?q=WO2020016577A1"><strong>A Device </strong></a> <br />
 Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Anzhu Gao, Burak Temelkuran and Guang-Zhong Yang<br />
 Publication No: WO2020016577A1 </p>
 </blockquote>
