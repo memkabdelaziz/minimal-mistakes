@@ -14,9 +14,7 @@ I was featured in Sky News Arabia: <a href="https://www.skynewsarabia.com/techno
 لقائي مع الأستاذ شريف عامر في برنامج يحدث في مصر:
 (My TV interview with Mr. Sherif Amer, MBC MASR 1, apologies it's in Arabic):
 <center>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=htJ0SIX20j4&ab_channel=%D9%8A%D8%AD%D8%AF%D8%AB%D9%81%D9%8A%D9%85%D8%B5%D8%B1">
-</iframe></center> </p> </li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htJ0SIX20j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
 
 <li><p> 06 Jan 2022 <br />
