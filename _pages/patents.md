@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /patents/
 title: ""
 author-profile: true
 classes: wide
