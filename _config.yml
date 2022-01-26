@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed E. M. K. Abdelaziz"
-  avatar           : "/images/bio photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "London, United Kingdom"
   email            : "m.abdelaziz16@imperial.ac.uk"
