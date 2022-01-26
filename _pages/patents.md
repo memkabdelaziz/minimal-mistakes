@@ -8,12 +8,7 @@ classes: wide
 
 ## Patents
 
-<blockquote>
-<p>
-<a href="https://patents.google.com/patent/GB202020346D0/en?q=(Ip2ipo+Innovations+Ltd)&oq=(Ip2ipo+Innovations+Ltd)+&sort=new&page=5"><strong>A device and a method </strong></a> <br />
-  <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Hyun-Taek Lee, Jinshi Zhao, Florent Seichepine and Guang-Zhong Yang <br />
-  Application No: GBGB2020346.9A </p>
-</blockquote>
+Licensed or currently in the process of being licensed by <a href="http://www.pruk.ltd"><strong>Precision Robotics Limited </strong></a> and  <a href="https://surgicalrobot.com.hk/"> <strong>Precision Robotics (Hong Kong) Limited </strong> </a>. 
 
 <blockquote>
 <p>
