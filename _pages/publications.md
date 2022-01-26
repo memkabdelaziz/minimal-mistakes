@@ -74,8 +74,7 @@ Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Dennis Kundrat, Marco Pupillo, Giulio Dagnino, Trevor M. Y. Kwok, Wenqiang Chi, Vincent Groenhuis, Françoise J. Siepel, Celia Riga, Stefano Stramigioli and Guang-Zhong Yang <br />
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 5411-5418
 <br />
-<a href="https://www.youtube.com/watch?v=D2q07NMT0sw">[<strong> Video </strong>]</a>, Selected by the
-Society for Cardiac Robotic Navigation (SCRN) as one of the <a href="https://www.dropbox.com/s/t73yblfpv9zytae/SCRN_diploma_Mr.%20Abdelaziz.pdf?dl=0"> <strong> top three experimental papers for the 2019-2020 </strong> </a> period. </p>
+Selected by the Society for Cardiac Robotic Navigation (SCRN) as one of the <a href="https://www.dropbox.com/s/t73yblfpv9zytae/SCRN_diploma_Mr.%20Abdelaziz.pdf?dl=0"> <strong> top three experimental papers for the 2019-2020 </strong> </a> period <br /> </p><a href="https://www.youtube.com/watch?v=D2q07NMT0sw"> [<strong> Video </strong>]</a>.
 </blockquote>
 
 <blockquote>
