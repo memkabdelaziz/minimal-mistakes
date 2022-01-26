@@ -10,8 +10,8 @@ classes: wide
 
 _________________
 
-### 2021y
-<font size="-1">
+### 2021
+<font size="-0.5">
 <blockquote>
 <p>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant <i class="fas fa-unlock"></i> </strong></a> <br />
@@ -31,6 +31,7 @@ _________________
 Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga and Guang-Zhong Yang  <br />
 IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
 </blockquote>
+</font>
 
 ### 2020
 <font size="-0.15em">
