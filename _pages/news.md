@@ -44,7 +44,7 @@ I was featured in masrawy, an arabic Egyptian news web portal: <a href="https://
 
 <li><p> 26 Dec 2021 <br />
 Humbled and honoured to be named an MIT Technology Review Innovator Under 35 in MENA for my contributions to #medical_robotics and image-guided interventions.
-<a href="https://majarra.com/en/about/news/Majarra-and-MIT-Technology-Review-Arabia-announce-the-2021-Innovators-Under-35-MENA-Winners"><strong>English Announcement: </strong></a>, <a href="https://majarra.com/ar/about/news/Majarra-and-MIT-Technology-Review-Arabia-announce-the-2021-Innovators-Under-35-MENA-Winners"><strong>Arabic Announcement: </strong></a>, <a href="https://iu35.technologyreview.ae/winners/2021?_ga=2.79044820.1944320116.1643208316-1921707036.1637783952"><strong> List of Winners: </strong></a>, <a href="https://iu35.technologyreview.ae/winner/mohamed-abdelaziz"><strong> Personal Webpage: </strong></a> <br />
+<a href="https://majarra.com/en/about/news/Majarra-and-MIT-Technology-Review-Arabia-announce-the-2021-Innovators-Under-35-MENA-Winners"><strong>English Announcement </strong></a>, <a href="https://majarra.com/ar/about/news/Majarra-and-MIT-Technology-Review-Arabia-announce-the-2021-Innovators-Under-35-MENA-Winners"><strong>Arabic Announcement </strong></a>, <a href="https://iu35.technologyreview.ae/winners/2021?_ga=2.79044820.1944320116.1643208316-1921707036.1637783952"><strong> List of Winners </strong></a>, <a href="https://iu35.technologyreview.ae/winner/mohamed-abdelaziz"><strong> Personal Webpage </strong></a> <br />
 <center>
 <img src="/images/MITU35.jfif">
 </center> </p> </li>
