@@ -53,7 +53,7 @@ Publication No: WO2020174248A1 </p>
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search/family/063364501/publication/WO2020016577A1?q=WO2020016577A1"><strong>A Device </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/063364501/publication/WO2020016577A1?q=WO2020016577A1"><strong>A device </strong></a> <br />
 Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Anzhu Gao, Burak Temelkuran and Guang-Zhong Yang<br />
 Publication No: WO2020016577A1 </p>
 </blockquote>
