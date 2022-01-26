@@ -5,7 +5,13 @@ classes: wide
 ---
 <ul>
 
-<li><p> 06 Jan 2022 <br />
+<li><p> 18 Jan 2022 <br />
+My TV interview with AlHadath Alyoum <br />
+(مقابلتي مع قناة الحدث اليوم)  <br />
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5udjc4vIHeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
+
+<li><p> 18 Jan 2022 <br />
 My TV interview with Sabah El Ward, TeN TV <br />
 (TeN TV - لقائي مع برنامج صباح الورد)  <br />
 <center>
