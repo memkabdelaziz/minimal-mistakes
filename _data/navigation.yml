@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: /about
+    url: /about/
   - title: "News"
-    url: /news
+    url: /news/
   - title: "Publications"
-    url: /publications
-- title: "Patents"
-  url: /patents
+    url: /publications/
+  - title: "Patents"
+    url: /patents/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
