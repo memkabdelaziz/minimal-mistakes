@@ -11,7 +11,7 @@ classes: wide
 _________________
 
 ### 2021
-<font size="-0.35em">
+<font size="-0.25em">
 <blockquote>
 <p>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mame.202100620"><strong>Towards a Functional Atraumatic Self-Shaping Cochlear Implant <i class="fas fa-unlock"></i> </strong></a> <br />
@@ -31,9 +31,10 @@ _________________
 Dennis Kundrat, Giulio Dagnino, Trevor M. Y.  Kwok, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqiang Chi, Anh Nguyen, Celia Riga and Guang-Zhong Yang  <br />
 IEEE Transactions on Biomedical Engineering, vol. 68, no. 10, pp. 3110-3121, Oct. 2021 </p>
 </blockquote>
+</font>
 
 ### 2020
-
+<font size="-0.25em">
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/9305711"><strong>Integrated Augmented Reality Feedback for Cochlear Implant Surgery Instruments</strong></a><br />
 Daniel Bautista-Salinas, Dennis Kundrat, Alexandros Kogkas, <strong>Mohamed E. M. K. Abdelaziz</strong>, Stamatia Giannarou and Ferdinando Rodriguez y Baena <br />
@@ -63,9 +64,11 @@ Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, <st
 Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Yao Guo, YingLiang Ma, Trevor MY Kwok, Celia Riga and Guang-Zhong Yang <br />
 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9967-9973 </p>
 </blockquote>
+</font>
 
 
 ### 2019
+<font size="-0.25em">
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
 Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Celia Riga and Guang-Zhong Yang <br />
@@ -83,9 +86,10 @@ Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E
 Yang Hu, Lin Zhang, Carlo A. Seneci, Wei Li, <strong>Mohamed E. M. K. Abdelaziz</strong> and Guang-Zhong Yang <br />
 IEEE/ASME Transactions on Mechatronics, vol. 24, no. 2, pp. 517-526, April 2019 </p>
 </blockquote>
+</font>
 
 ### 2018
-
+<font size="-0.25em">
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8593421"><strong>Trajectory optimization of robot-assisted endovascular catheterization with reinforcement learning
 </strong></a><br />
@@ -105,26 +109,29 @@ Giulio Dagnino, Jindong Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqia
 Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong Yang <br />
 2018 IEEE International Conference on Robotics and Automation (ICRA), 2018, pp. 25-31 </p>
 </blockquote>
+</font>
 
 ### 2017
-
+<font size="-0.25em">
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/document/7989206"><strong>Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy</strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Vincent Groenhuis, Jeroen Veltman,  Françoise J. Siepel, and Stefano Stramigioli <br />
  2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 1746-1753 </p>
 </blockquote>
+</font>
 
 ### 2014
-
+<font size="-0.25em">
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/6961597"><strong>Parameter space approach based state feedback control of LTV systems
 </strong></a><br />
 Frank Schrödel, <strong>Mohamed E. M. K. Abdelaziz</strong>, and Dirk Abel <br />
  22nd Mediterranean Conference on Control and Automation, 2014, pp. 1559-1565 </p>
 </blockquote>
+</font>
 
 ## Dissertations
-
+<font size="-0.25em">
 <blockquote>
 <p><a href="https://www.dropbox.com/s/ol0jpu3mxfd315g/Mohamed_Abdelaziz_MSc.pdf?dl=0"><strong> Designing, implementing and integrating a controller for the MRI-compatible robotic breast biopsy system
 </strong></a><br />
