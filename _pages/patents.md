@@ -45,7 +45,7 @@ Publication No: WO2020174246A1 </p>
 
 <blockquote>
 <p>
-<a href="https://worldwide.espacenet.com/patent/search/family/066377358/publication/WO2020174248A1?q=WO2020174248A1"><strong>A Method and Preform for Forming a Device Comprising a Shape Memory Polymer </strong></a> <br />
+<a href="https://worldwide.espacenet.com/patent/search/family/066377358/publication/WO2020174248A1?q=WO2020174248A1"><strong>A method and preform for forming a device comprising a shape memory polymer </strong></a> <br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Anzhu Gao, Burak Temelkuran and Guang-Zhong Yang<br />
 Publication No: WO2020174248A1 </p>
 </blockquote>
