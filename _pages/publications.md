@@ -67,10 +67,10 @@ Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. 
 <blockquote>
 <p><a href="https://www.curac.org/images/advportfoliopro/images/CURAC2019/Tagungsband_Impressum_Curac.pdf"><strong>Towards MR-Safe Endovascular Robotics</strong></a><br />
 Dennis Kundrat, Giulio Dagnino, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Wenqiang Chi, Celia Riga and Guang-Zhong Yang <br />
-Proc. of the German Society of Computer and Robot-Assisted Surgery (CURAC) conference, Reutlingen 2019, pp. 195-198 </p>
+Proc. of the German Society of Computer and Robot-Assisted Surgery (CURAC) conference, Reutlingen 2019, pp. 195-198 <br />
+<i class="fas fa-medal"></i> Received Best Paper Award <i class="fas fa-medal"></i>
+</p>
 </blockquote>
-
-[7] D. Kundrat, G. Dagnino, \textbf{M. E. M. K. Abdelaziz}, T. M. Y. Kwok, C. Riga, G-Z. Yang, \enquote{Towards MR-Safe Endovascular Robotics,} Proc. of the German Society of Computer and Robot-Assisted Surgery (CURAC) conference, Reutlingen 2019, \href{https://www.curac.org/images/advportfoliopro/images/CURAC2019/Tagungsband_Impressum_Curac.pdf}{paper link (pp. 195-198)}. {\color{red} Received Best Paper Award}.
 
 <blockquote>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8967712"><strong>Haptic guidance for robot-assisted endovascular procedures: implementation and evaluation on surgical simulator</strong></a><br />
