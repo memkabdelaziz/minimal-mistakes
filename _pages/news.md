@@ -10,7 +10,6 @@ I was featured in Sky News Arabia: <a href="https://www.skynewsarabia.com/techno
 </center> </p> </li>
 
 
-
 <li><p> 06 Jan 2022 <br />
 لقائي مع الأستاذ شريف عامر في برنامج يحدث في مصر:
 (My TV interview with Mr. Sherif Amer, MBC MASR 1, apologies it's in Arabic):
@@ -18,7 +17,6 @@ I was featured in Sky News Arabia: <a href="https://www.skynewsarabia.com/techno
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe></center> </p> </li>
-
 
 
 <li><p> 06 Jan 2022 <br />
