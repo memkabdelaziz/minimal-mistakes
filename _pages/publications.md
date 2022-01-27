@@ -109,7 +109,7 @@ Giulio Dagnino, Jindong Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Wenqia
 </blockquote>
 
 <blockquote>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/8460849"><strong>Design and kinematics characterization of a laser-profiled continuum manipulator for the guidance of bronchoscopic instruments</strong></a><br />
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8460849"><strong>Design and kinematics characterization of a laser-profiled continuum manipulator for the guidance of bronchoscopic instruments</strong></a> <a href="https://www.dropbox.com/s/crs3ksp7ircgeky/ICRA2018-website.pdf?dl=0">[<strong>PDF</strong>]</a> <br /> 
 Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong Yang <br />
 2018 IEEE International Conference on Robotics and Automation (ICRA), 2018, pp. 25-31 </p>
 </blockquote>
@@ -119,7 +119,7 @@ Ning Liu, <strong>Mohamed E. M. K. Abdelaziz</strong>, Mali Shen and Guang-Zhong
 <p><a href="https://ieeexplore.ieee.org/document/7989206"><strong>Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy</strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Vincent Groenhuis, Jeroen Veltman,  Françoise J. Siepel, and Stefano Stramigioli <br />
  2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 1746-1753 <br />
- <a href="https://www.youtube.com/watch?v=MTHQD3dHnos"> [<strong> Video </strong>]</a> 
+ <a href="https://www.youtube.com/watch?v=MTHQD3dHnos"> [<strong> Video </strong>]</a>
  </p>
 </blockquote>
 
