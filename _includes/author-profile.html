@@ -234,20 +234,12 @@
 
       {% if author.vine %}
         <li>
-          <a href="https://vine.co/u/{{ author.vine }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+          <a href="https://www.youtube.com/{{ author.vine }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-vine" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
           </a>
         </li>
       {% endif %}
 
-      {% if author.googlescholar %}
-        <li>
-          <a href="https://scholar.google.com/citations/{{ author.googlescholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <img src="https://img.icons8.com/material-outlined/24/000000/google-scholar.png"/><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
-          </a>
-        </li>
-      {% endif %}
-      
 
       {% include author-profile-custom-links.html %}
     </ul>

@@ -138,6 +138,8 @@ author:
       # url: "https://youtube.com/"
     - label: "GoogleScholar"
       icon: "fab fa-fw fa-youtube"
+    - label: "vine"
+      icon: "fa fa-graduation-cap"
   # url: "https://youtube.com/"
 
 # Site Footer
