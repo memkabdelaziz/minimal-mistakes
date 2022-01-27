@@ -12,6 +12,13 @@ The following patents are licensed, or are currently in the process of being lic
 
 <blockquote>
 <p>
+<a href="https://patents.google.com/patent/GB202020346D0/en?q=(Ip2ipo+Innovations+Ltd)&oq=(Ip2ipo+Innovations+Ltd)+&sort=new&page=5"><strong>A device and a method </strong></a> <br />
+  <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Hyun-Taek Lee, Jinshi Zhao, Florent Seichepine and Guang-Zhong Yang <br />
+  Application No:GBGB2020329.5A </p>
+</blockquote>
+
+<blockquote>
+<p>
 <a href="https://patents.google.com/patent/GB202020329D0/en?q=(Ip2ipo+Innovations+Ltd)&oq=(Ip2ipo+Innovations+Ltd)+&sort=new&page=5"><strong>A method </strong></a> <br />
   <strong>Mohamed E. M. K. Abdelaziz</strong>, Burak Temelkuran, Guang-Zhong Yang, Andreas Leber, Fabien Sorin <br />
   Application No: GBGB2020329.5A </p>
