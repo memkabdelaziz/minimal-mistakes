@@ -115,6 +115,7 @@ author:
   github           : "memkabdelaziz"
   linkedin         : "memkabdelaziz"
   twitter          : "memkabdelaziz"
+  youtube          : "channel/UCiwtUM7FVaFm3EzqAxYbspA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -131,9 +132,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        #url: "memkabdelaziz"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://youtube.com/"
 
 
 # Site Footer
