@@ -65,10 +65,10 @@ Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, <strong>Mohamed E. M. 
 ### 2019
 
 <blockquote>
+<i class="fas fa-medal"></i> Received Best Paper Award <i class="fas fa-medal"></i> <br />
 <p><a href="https://www.curac.org/images/advportfoliopro/images/CURAC2019/Tagungsband_Impressum_Curac.pdf"><strong>Towards MR-Safe Endovascular Robotics</strong></a><br />
 Dennis Kundrat, Giulio Dagnino, <strong>Mohamed E. M. K. Abdelaziz</strong>, Trevor M. Y. Kwok, Wenqiang Chi, Celia Riga and Guang-Zhong Yang <br />
-Proc. of the German Society of Computer and Robot-Assisted Surgery (CURAC) conference, Reutlingen 2019, pp. 195-198 <br />
-<i class="fas fa-medal"></i> Received Best Paper Award <i class="fas fa-medal"></i>
+Proc. of the German Society of Computer and Robot-Assisted Surgery (CURAC) conference, Reutlingen 2019, pp. 195-198
 </p>
 </blockquote>
 
@@ -79,11 +79,12 @@ Miguel B. Molinero, Giulio Dagnino, Jindong Liu, Wenqiang Chi, <strong>Mohamed E
 </blockquote>
 
 <blockquote>
+<i class="fas fa-medal"></i> Selected by the Society for Cardiac Robotic Navigation (SCRN) as one of the <a href="https://www.dropbox.com/s/t73yblfpv9zytae/SCRN_diploma_Mr.%20Abdelaziz.pdf?dl=0"> <strong> top three </strong> </a> experimental papers for the 2019-2020 period <i class="fas fa-medal"></i> <br />
 <p><a href="https://ieeexplore.ieee.org/abstract/document/8968237"><strong>Toward a versatile robotic platform for fluoroscopy and mri-guided endovascular interventions: A pre-clinical study</strong></a><br />
 <strong>Mohamed E. M. K. Abdelaziz</strong>, Dennis Kundrat, Marco Pupillo, Giulio Dagnino, Trevor M. Y. Kwok, Wenqiang Chi, Vincent Groenhuis, Françoise J. Siepel, Celia Riga, Stefano Stramigioli and Guang-Zhong Yang <br />
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 5411-5418
 <br />
-<i class="fas fa-medal"></i> Selected by the Society for Cardiac Robotic Navigation (SCRN) as one of the <a href="https://www.dropbox.com/s/t73yblfpv9zytae/SCRN_diploma_Mr.%20Abdelaziz.pdf?dl=0"> <strong> top three </strong> </a> experimental papers for the 2019-2020 period <i class="fas fa-medal"></i> <br /> <a href="https://www.youtube.com/watch?v=D2q07NMT0sw"> [<strong> Video </strong>]</a> </p>
+<a href="https://www.youtube.com/watch?v=D2q07NMT0sw"> [<strong> Video </strong>]</a> </p>
 </blockquote>
 
 <blockquote>
