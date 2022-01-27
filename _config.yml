@@ -116,7 +116,7 @@ author:
   linkedin         : "memkabdelaziz"
   twitter          : "memkabdelaziz"
   youtube          : "channel/UCiwtUM7FVaFm3EzqAxYbspA"
-  googlescholar    : ""?user=QYzeQIcAAAAJ&hl=en"
+  # googlescholar    : ""?user=QYzeQIcAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -139,7 +139,7 @@ author:
     - label: "GoogleScholar"
       icon: "fab fa-fw fa-youtube"
     - label: "vine"
-      icon: "fa fa-graduation-cap"
+      # icon: "fa fa-graduation-cap"
   # url: "https://youtube.com/"
 
 # Site Footer
