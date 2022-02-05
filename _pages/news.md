@@ -5,6 +5,17 @@ classes: wide
 ---
 <ul>
 
+<li><p> 5 Feb 2022 <br />
+I was featured on Cairo 24 <a href="https://www.cairo24.com/1495135"><strong>(24 القاهرة)</strong></a> <br />
+<center>
+<img src="/images/alkahera24.PNG">
+</center> </p> </li>
+
+<li><p> 5 Feb 2022 <br />
+I was featured on Scoop Empire <a href="https://bit.ly/330kzXL"><strong>(سكاي نيوز عربي)</strong></a> <br />
+<center>
+<img src="/images/scoop=empire.PNG">
+</center> </p> </li>
 
 <li><p> 1 Feb 2022 <br />
 Super excited to share that our research group was featured on Italia 1. The feature which was reported by Federico Gatti, aired on the 1st of February at 7pm (CET). It highlighted some of the exciting research projects carried out at the Hamlyn Centre for Robotic Surgery, Imperial College London.
