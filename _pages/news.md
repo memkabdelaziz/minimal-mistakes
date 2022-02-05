@@ -25,7 +25,7 @@ I was featured on Imperial News! <a href="https://www.imperial.ac.uk/news/233477
 
 <li><p> 18 Jan 2022 <br />
 My TV interview with Sabah El Ward, TeN TV <br />
-(TeN TV - لقائي مع برنامج صباح الورد)  <br />
+(TeN TV لقائي في برنامج صباح الورد على قناة)  <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOljIIOiJqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
