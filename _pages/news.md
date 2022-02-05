@@ -18,7 +18,7 @@ My TV interview with Mr. Syed Ali, AlHadath Alyoum  <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dw_NxabEMe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
 <li><p> 28 Jan 2022 <br />
-I was featured on Imperial News! <a href="https://www.imperial.ac.uk/news/233477/comets-tail-crossing-supply-chain-challenge/">[<strong> Link to news </strong>]</a> <br />
+I was featured on <a href="https://www.imperial.ac.uk/news/233477/comets-tail-crossing-supply-chain-challenge/">Imperial News!</a> <br />
 <center>
 <img src="/images/imperial-news.png">
 </center> </p> </li>
