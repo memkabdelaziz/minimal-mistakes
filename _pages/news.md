@@ -6,6 +6,10 @@ classes: wide
 <ul>
 
 <li><p> 18 Jan 2022 <br />
+Super excited to share that our research group was featured on Italia 1! This feature aired last Tuesday (1st of Feb 2022) at 7pm (CET). The feature highlighted some of the exciting research projects carried out at the Hamlyn Centre for Robotic Surgery, Imperial College London.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/utPORLbYkW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
+
+<li><p> 18 Jan 2022 <br />
 My TV interview with AlHadath Alyoum <br />
 (لقائي مع قناة الحدث اليوم)  <br />
 <center>
