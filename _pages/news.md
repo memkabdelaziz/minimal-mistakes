@@ -12,7 +12,7 @@ I was featured on Cairo 24 <a href="https://www.cairo24.com/1495135"><strong>(24
 </center> </p> </li>
 
 <li><p> 5 Feb 2022 <br />
-I was featured on Scoop Empire <a href="https://bit.ly/330kzXL"><strong>(سكاي نيوز عربي)</strong></a> <br />
+I was featured on Scoop Empire <a href="https://bit.ly/330kzXL"><strong>(سكوب إمباير)</strong></a> <br />
 <center>
 <img src="/images/scoop=empire.PNG">
 </center> </p> </li>
