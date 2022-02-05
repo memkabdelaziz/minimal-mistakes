@@ -13,7 +13,7 @@ Super excited to share that our research group was featured on Italia 1! This fe
 
 <li><p> 29 Jan 2022<br />
 My TV interview with AlHadath Alyoum <br />
-(لقائي مع قناة الحدث اليوم)  <br />
+(لقائي مع قناة الحدث اليوم  <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dw_NxabEMe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
 
@@ -37,7 +37,7 @@ I was featured in Sky News Arabia: <a href="https://www.skynewsarabia.com/techno
 
 <li><p> 06 Jan 2022 <br />
 My TV interview with Mr. Sherif Amer, MBC MASR 1 <br />
-(لقائي مع الأستاذ شريف عامر في برنامج يحدث في مصر) <br />
+(مصر MBC لقائي مع الأستاذ شريف عامر في برنامج يحدث في مصر على قناة) <br />
 <a href="https://lnkd.in/eWkHXXnS"><strong>Link 1 </strong></a>, <a href="https://lnkd.in/ek4GkXpD"><strong>Link 2 </strong></a>, <a href="https://lnkd.in/eCfhzG52"><strong>Link 3 </strong></a>, <a href="https://lnkd.in/eqZKxWZJ"><strong>Link 4 </strong></a> <br />
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htJ0SIX20j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> </p> </li>
